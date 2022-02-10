@@ -3,10 +3,7 @@ module github.com/charmbracelet/glow
 go 1.13
 
 replace github.com/charmbracelet/glamour => ../glamour
-
 replace github.com/muesli/reflow => ../reflow
-
-replace github.com/muesli/termenv => ../termenv
 
 require (
 	github.com/charmbracelet/bubbles v0.7.6
